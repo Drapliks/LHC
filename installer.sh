@@ -8,7 +8,7 @@ cd
 git clone https://github.com/ArtsyMacaw/wlogout.git
 cd wlogout
 makepkg -si
-cd LHC
+cd ~/LHC
 mv config .config
 rm -rf ~/.config && mv .config ~/
 chsh -s /usr/bin/fish
