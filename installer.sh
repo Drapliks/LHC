@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo pacman -S mako slurp fastfetch pavucontrol fish waybar mousepad cava
+sudo pacman -S mako slurp fastfetch pavucontrol fish waybar mousepad cava udiskie
 cd
 git clone https://aur.archlinux.org/yay.git
 cd yay
